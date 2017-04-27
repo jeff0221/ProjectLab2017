@@ -1,9 +1,11 @@
 package Models.AbstractModels;
 
 /**
- * Created by Zonde on 24-03-2017.
+ * Created by Jeffrey on 24-03-2017.
  */
 public interface Locater
 {
-
+/*
+* Placeholder interface in case there could be developed something better for the future
+* */
 }
